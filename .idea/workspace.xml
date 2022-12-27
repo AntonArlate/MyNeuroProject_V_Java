@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001ef457-577b-4d07-adff-868aaf3c43ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/neuralNetwork/ActivationFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/neuralNetwork/MatrixConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/neuralNetwork/MatrixConstructor_I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/neuralNetwork/NeuralMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/neuralNetwork/NeuralNet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/neuralNetwork/NeuralNet_I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/neuralNetwork/Neuron.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/neuralNetwork/NeuronLayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/neuralNetwork/NeuronLink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/presenters/Presenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/presenters/Presenter_I.java" afterDir="false" />
-    </list>
+    <list default="true" id="001ef457-577b-4d07-adff-868aaf3c43ed" name="Changes" comment="27.12.2022 first work. Попытка рефакторинга нейросети из питона с применением знаний ООП. Реализована инициализация и создание сети." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +19,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -88,6 +74,21 @@
       <option name="presentableId" value="Default" />
       <updated>1672120463322</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1672154469361</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672154469361</updated>
+    </task>
+    <task id="LOCAL-00002" summary="27.12.2022 first work. Попытка рефакторинга нейросети из питона с применением знаний ООП. Реализована инициализация и создание сети.">
+      <created>1672155307701</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672155307701</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,5 +101,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="27.12.2022 first work. Попытка рефакторинга нейросети из питона с применением знаний ООП. Реализована инициализация и создание сети." />
+    <option name="LAST_COMMIT_MESSAGE" value="27.12.2022 first work. Попытка рефакторинга нейросети из питона с применением знаний ООП. Реализована инициализация и создание сети." />
   </component>
 </project>
